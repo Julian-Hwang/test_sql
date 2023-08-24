@@ -1,0 +1,12 @@
+private class OnboardDao{
+	private str aano;
+	private int b;
+	private int a;
+	private String title;
+}
+PRIVATE CLASS OnboardDao{
+	private str aano;
+	private int b;
+	private int a;
+	private String title;
+}
